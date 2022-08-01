@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Umut Zengi</h1>
-<h3 align="center">A passionate "Frontend Developer" from Turkey</h3>
+<h3 align="center">A passionate frontend developer from Turkey</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umutzengi" alt="umutzengi" /></a> </p>
 
-- 🌱 I’m currently learning React framework
+- 🌱 I’m currently learning **React framework**
+
+- 💬 Ask me about **Javascript, HTML, CSS**
 
 - 📫 How to reach me **umut_zengi@hotmail.com**
+
+- ⚡ Fun fact **I was a civil engineer I am now learning to build not concrete structures but web projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umutzengi&show_icons=true&locale=en&layout=compact" alt="umutzengi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umutzengi&show_icons=true&locale=en" alt="umutzengi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umutzengi&" alt="umutzengi" /></p>
