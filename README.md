@@ -14,7 +14,8 @@ Now I continue with React and React-Native.<br></p>
 * 🤝  I'm open to collaborating on Javascript, 
       React and React-Native projects
 * ⚡   Fun fact I was a civil engineer I am now learning 
-      to build not concrete structures but web projects.
+      to build not concrete structures but<br>
+      web and mobile projects.
 
 ### Skills
 
@@ -36,7 +37,7 @@ Now I continue with React and React-Native.<br></p>
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/umutzengi"><img src="https://github-readme-stats.vercel.app/api?username=umutzengi&show_icons=true&hide=contribs&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&show_icons=true" height="180" alt="umutzengi's GitHub stats" /><img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=umutzengi&stroke=ffffff&background=181824&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/umutzengi"><img src="https://github-readme-stats.vercel.app/api?username=umutzengi&show_icons=true&hide=contribs&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&show_icons=true" height="150" alt="umutzengi's GitHub stats" /><img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=umutzengi&stroke=ffffff&background=181824&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
 
