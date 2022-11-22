@@ -36,9 +36,9 @@ Now I continue with React and React-Native.<br></p>
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/umutzengi"><img src="https://github-readme-stats.vercel.app/api?username=umutzengi&show_icons=true&hide=contribs&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&show_icons=true" height="185" alt="umutzengi's GitHub stats" /><img height="185" src="https://github-readme-streak-stats.herokuapp.com/?user=umutzengi&stroke=ffffff&background=181824&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/umutzengi"><img src="https://github-readme-stats.vercel.app/api?username=umutzengi&show_icons=true&hide=contribs&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&show_icons=true" height="180" alt="umutzengi's GitHub stats" /><img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=umutzengi&stroke=ffffff&background=181824&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
 
-<a href="http://www.github.com/umutzengi"><img width="1100" src="https://activity-graph.herokuapp.com/graph?username=umutzengi&bg_color=181824&color=ffffff&line=3382ed&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/umutzengi"><img width="1000" src="https://activity-graph.herokuapp.com/graph?username=umutzengi&bg_color=181824&color=ffffff&line=3382ed&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
