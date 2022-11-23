@@ -41,5 +41,5 @@ Now I continue with React and React-Native.<br></p>
 
 
 
-<a href="http://www.github.com/umutzengi"><img width="1000" src="https://activity-graph.herokuapp.com/graph?username=umutzengi&bg_color=181824&color=ffffff&line=3382ed&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+[//]: <> (<a href="http://www.github.com/umutzengi"><img width="1000" src="https://activity-graph.herokuapp.com/graph?username=umutzengi&bg_color=181824&color=ffffff&line=3382ed&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>)
 
